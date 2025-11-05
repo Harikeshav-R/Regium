@@ -1,2 +1,0 @@
-# Leaderboard
-Turing Leaderboard System
