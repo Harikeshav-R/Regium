@@ -1,2 +1,0 @@
-# Regium
-All things Regium
